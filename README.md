@@ -15,9 +15,11 @@ Il est possible d'arreter une mission en cour en retournant au dépot.<br>
 Vous ne recevez votre salaire que au retour du camion au dépot et après vérification de l'etat de ce dernier.<br>
 
 # NECESSAIRE
-Vous avez besoin de es_estended sur votre serveur.<br>
 https://github.com/indilo53/fivem-es_extended
 
 # INSTALLATION
 Copier le dossier dans resources<br>
 Importer esx_truckerjob.sql dans votre BBD<br>
+
+# REMERCIMENTS
+Merci a Renaiku pour la convertion de CFX vers FX
