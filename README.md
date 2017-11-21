@@ -21,5 +21,5 @@ https://github.com/indilo53/fivem-es_extended
 Copier le dossier dans resources<br>
 Importer esx_truckerjob.sql dans votre BBD<br>
 
-# REMERCIMENTS
+# REMERCIEMENTS
 Merci a Renaiku pour la convertion de CFX vers FX
